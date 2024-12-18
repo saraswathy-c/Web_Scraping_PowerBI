@@ -1,4 +1,4 @@
-# Web_Scraping_PowerBI
+# Web Scraping with Microsoft Power BI
 This project demonstrates web scraping using Power BI.
 <br>
 ## Overview 
@@ -8,8 +8,9 @@ This project uses the web scraping technique to read data regarding gold prices 
 To demonstrate web scraping feature in Microsoft Power BI and how this can be useul in real-world problem-solving tasks.
 
 ## Features
--**Data Analysis**: Extracting insights from data read from the internet.
--**Visualization**:Creating clear and informative charts using MS Power BI.
+- **Data Analysis**: Extracting insights from data read from the internet.
+
+- **Visualization**:Creating clear and informative charts using MS Power BI.
 
 ## Approach
 1. Collected data from web using MS Power BI's Web Scraping feature, and preprocessed it using Power Query.
