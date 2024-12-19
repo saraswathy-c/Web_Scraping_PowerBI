@@ -14,7 +14,7 @@ To demonstrate web scraping feature in Microsoft Power BI and how this can be us
 
 ## Approach
 1. Collected data from web using MS Power BI's Web Scraping feature, and preprocessed it using *Power Query*.
-2. The following URL was used to obtain data for analysis of gold prices: [Gold Price Analysis](https://www.goldpriceindia.com) [Jump to External Resource Section](#External Resource used)
+2. The following URL was used to obtain data for analysis of gold prices: [Gold Price Analysis](https://www.goldpriceindia.com) [Jump to External Resource Section](# External Resource used)
 3. Visualized key insights using bar charts, tables, map and line graphs.
 
 ## Results
