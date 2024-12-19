@@ -24,6 +24,7 @@ The implementation achieved the following:
 - Following are few visualizations from the analysis showing :
   - Trends of gold prices over the past 10 years
     ![Graph showing gold prices in last 10 years](images/Gold_PerformanceChart1.png)
+
   - Gold price in last 10 days (June 2023)
     ![Graph showing Gold price in last 10 days of June 2023](images/Gold_PerformanceChart2.png)
   - Gold price in major cities across India
