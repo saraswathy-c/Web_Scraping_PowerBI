@@ -22,12 +22,15 @@ The implementation achieved the following:
 - Improved task efficiency and greatly useful in solving real-world tasks.
 - Enhanced data visualization for better decision-making.
 - Following are few visualizations from the analysis showing :
+  
   - Trends of gold prices over the past 10 years
     ![Graph showing gold prices in last 10 years](https://raw.githubusercontent.com/saraswathy-c/images/main/Gold_PerformanceChart1.png)
+
   - Gold price in last 10 days (June 2023)
-    ![Graph showing Gold price in last 10 days of June 2023](images/Gold_PerformanceChart2.png)
+    ![Graph showing Gold price in last 10 days of June 2023](https://raw.githubusercontent.com/saraswathy-c/images/main/Gold_PerformanceChart2.png)
+
   - Gold price in major cities across India
-    ![Graph showing performance](images/Gold_PerformanceChart3.png)
+    ![Graph showing performance](https://raw.githubusercontent.com/saraswathy-c/images/main/Gold_PerformanceChart3.png)
 
 ## External Resource used
 The Gold price in India varies across many cities due to various local market factors - for example, demand and supply of gold, state government taxes and transportation charges of physical gold. The following website provides today's gold price in India for 24 karat and 22 karat gold in major cities across the country, as well as gold prices across the past months. 
