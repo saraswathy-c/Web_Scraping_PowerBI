@@ -4,6 +4,8 @@ This project demonstrates web scraping using Power BI.
 ## Overview 
 This project uses the web scraping technique to read data regarding gold prices and creates visualizations in Microsoft Power BI, to analyse the price of Gold.
 
+Web scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format, which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications. Web Scrapers can extract all the data on particular sites or the specific data that a user wants.
+
 ## Objective
 To demonstrate web scraping feature in Microsoft Power BI and how this can be useul in real-world problem-solving tasks.
 
@@ -27,11 +29,15 @@ The implementation achieved the following:
     ![Graph showing gold prices in last 10 years](https://raw.githubusercontent.com/saraswathy-c/images/main/Gold_PerformanceChart1.png)
 
   - Gold price in last 10 days (June 2023)
+    
     ![Graph showing Gold price in last 10 days of June 2023](https://raw.githubusercontent.com/saraswathy-c/images/main/Gold_PerformanceChart2.png)
 
   - Gold price in major cities across India
+    
     ![Graph showing performance](https://raw.githubusercontent.com/saraswathy-c/images/main/Gold_PerformanceChart3.png)
 
 ## External Resource used
-The Gold price in India varies across many cities due to various local market factors - for example, demand and supply of gold, state government taxes and transportation charges of physical gold. The following website provides today's gold price in India for 24 karat and 22 karat gold in major cities across the country, as well as gold prices across the past months. 
+The Gold price in India varies across many cities due to various local market factors - for example, demand and supply of gold, state government taxes and transportation charges of physical gold.
+
+The following website provides today's gold price in India for 24 karat and 22 karat gold in major cities across the country, as well as gold prices across the past months. 
 [Gold Price Analysis](https://www.goldpriceindia.com)
