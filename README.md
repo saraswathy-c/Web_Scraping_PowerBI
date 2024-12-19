@@ -14,7 +14,7 @@ To demonstrate web scraping feature in Microsoft Power BI and how this can be us
 
 ## Approach
 1. Collected data from web using MS Power BI's Web Scraping feature, and preprocessed it using *Power Query*.
-2. The following URL was used to obtain data for analysis of gold prices: [Gold Price Analysis](https://www.goldpriceindia.com) [Jump to External Resource Section](# External Resource used)
+2. The following URL was used to obtain data for analysis of gold prices: [Gold Price Analysis](https://www.goldpriceindia.com) 
 3. Visualized key insights using bar charts, tables, map and line graphs.
 
 ## Results
@@ -23,8 +23,7 @@ The implementation achieved the following:
 - Enhanced data visualization for better decision-making.
 - Following are few visualizations from the analysis showing :
   - Trends of gold prices over the past 10 years
-    ![Graph showing gold prices in last 10 years](images/Gold_PerformanceChart1.png)
-
+    ![Graph showing gold prices in last 10 years](https://raw.githubusercontent.com/saraswathy-c/images/main/Gold_PerformanceChart1.png)
   - Gold price in last 10 days (June 2023)
     ![Graph showing Gold price in last 10 days of June 2023](images/Gold_PerformanceChart2.png)
   - Gold price in major cities across India
